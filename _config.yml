@@ -2,7 +2,11 @@
 title: noccturnal
 description: whimsy in the absense of sanity.
 # Theme
-remote_theme: Gaohaoyang/gaohaoyang.github.io
+# theme: "Gaohaoyang/gaohaoyang.github.io"
+remote_theme: "Gaohaoyang/gaohaoyang.github.io"
+plugins:
+  - jekyll-remote-theme
+
 
 # Markdown / Rendering
 markdown: kramdown
